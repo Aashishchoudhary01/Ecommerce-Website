@@ -42,7 +42,6 @@ A modern and responsive eCommerce web application built using Next.js. This proj
 ├── components/
 ├── public/
 ├── screenshots/
-│   └── home-page.png
 ├── styles/
 ├── lib/
 ├── package.json
